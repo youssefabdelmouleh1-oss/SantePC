@@ -42,6 +42,6 @@ Every finding carries the measured value it's based on (`preuve`). Missing data 
 
 ## Known limits of v0
 
-- Not yet tested on a real Windows machine. The first run on your laptop is the test.
+- Not yet tested on a real Windows machine.
 - Disk counters depend on the drive and driver. Some NVMe drives report no wear value.
 - Latency is measured with TCP connections, not ping, so it works without admin rights and on any Windows language.
